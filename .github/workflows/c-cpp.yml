@@ -16,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: cd
-      run: cd Emulator
+      run: cd ./Emulator
     - name: make
       run: make
 
