@@ -1,5 +1,6 @@
 # this is the desktop version of procgeon &trade;
 a retro black and white scrolling roguelike dungeon crawler.
+dont open chests bcs the game wil lcrash ;)
 
 ## installation instructions:
 
